@@ -2,6 +2,9 @@
 好像是高通的对qemu添加的加速器
 原始连接如下
 
+git fetch https://github.com/patchew-project/qemu tags/patchew/20240109090039.1636383-1-quic._5Fsvaddagi@quicinc.com
+
+
 https://github.com/patchew-project/qemu/tree/patchew/20240109090039.1636383-1-quic._5Fsvaddagi@quicinc.com
 
 https://patchew.org/QEMU/20240109090039.1636383-1-quic._5Fsvaddagi@quicinc.com/
